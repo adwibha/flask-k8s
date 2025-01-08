@@ -129,6 +129,8 @@ eksctl create cluster \
 ```
 This will take ~10-15 minutes.
 
+![EKS](https://github.com/user-attachments/assets/ce85409e-76d9-4fb2-91bf-fdb72d714da2)
+
 ---
 
 ### **Step 3: Verify EKS Cluster**
@@ -317,9 +319,7 @@ http://<loadbalancer-url>:80
 
 You should see:
 
-```
-Hello, World from Flask on Kubernetes!
-```
+<img width="465" alt="Webpage" src="https://github.com/user-attachments/assets/accc996d-40a6-4539-a65b-edeb1ff339b4" />
 
 ---
 
